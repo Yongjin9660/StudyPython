@@ -1,5 +1,5 @@
 # List []
-subway=[10,20,30]
+subway = [10, 20, 30]
 print(subway)
 
 subway=["유재석", "조세호", "박명수"]
