@@ -13,3 +13,6 @@ trip_to2.detail()
 
 trip_to = thailand.ThailandPackage()
 trip_to.detail()
+
+
+
